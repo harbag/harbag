@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m harbag
 
-<!--
-**harbag/harbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🦄 Just a vibe coder, that's it.
 
-Here are some ideas to get you started:
+```text
+         .-""""-.
+        / -   -  \
+       |  .-. .- |
+       |  \o| |o (
+       \     ^    \
+        '.  )--'  /
+          '-...-'`
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I code whatever feels right.
+- No rules, just vibes.
+- Sometimes I ship, sometimes I chill.
+- You’ll find code and chaos here.
+
+> “Be the vibe you wish to see in the repo.” ✨
+
+---
+
+![Vibe Check](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
